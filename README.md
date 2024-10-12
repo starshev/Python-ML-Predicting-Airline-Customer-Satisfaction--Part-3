@@ -2,12 +2,12 @@
 
 **Context**
 
-The airline is interested in predicting whether a future customer would be satisfied with their services given previous customer feedback about their flight experience. The airline would like me, as a consultant, to construct and evaluate a model that can accomplish this goal. In this step I am building a XGBoosting machine.
+This activity is a continuation of the airline's churn rating project in which I built decision tree and random forest models. I will use the same data, but this time I will train, tune, and evaluate an XGBoost model. In addition, I’ll explore the feature importances of the model and identify the features that most contribute to customer satisfaction.
 
 **Skills**
 
 EDA, Data Cleaning, Data Wrangling  
 Feature engineering for ML  
-Building a XGBoosting machine (classification model)  
+Building an XGBoosting machine (classification model)  
 Tuning hyperparameters using GridSearchCV  
-Evaluating a XGBoost model using metrics and interpreting results  
+Evaluating an XGBoost model using metrics and interpreting results  
