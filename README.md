@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-Trained, tuned, and evaluated an XGBoosting classification model to assess customer satisfaction, building on prior decision tree and random forest models. Used the same dataset to explore feature importances and identify key factors impacting satisfaction, applying data cleaning, feature engineering, and hyperparameter tuning with GridSearchCV.
+Trained, tuned, and evaluated an XGBoosting classification model to assess customer satisfaction as part of an ongoing project for churn analysis. Used the same dataset as in previous phases, focusing on feature importances to identify key factors influencing satisfaction. Included data cleaning, feature engineering, and hyperparameter tuning with GridSearchCV.
 
 ### Key Skills
 
@@ -10,7 +10,7 @@ EDA, data cleaning, and data wrangling, feature engineering for ML, building an 
 
 ### Описание проекта
 
-Обучена, настроена и оценена модель XGBoosting для анализа удовлетворённости клиентов, продолжая проект по анализу оттока клиентов с использованием ранее созданных моделей Дерева Решений и Случайного Леса. Использовались те же данные для исследования важности признаков и определения ключевых факторов, влияющих на удовлетворённость. Проект включал очистку данных, инженерию признаков и настройку гиперпараметров с помощью GridSearchCV.
+Обучена, настроена и оценена модель XGBoosting для предсказания удовлетворённости клиентов в рамках продолжения проекта по анализу оттока. Использовались те же данные, что и в предыдущих этапах, с акцентом на исследование важности признаков для выявления факторов, влияющих на удовлетворённость клиентов. Проект включал очистку данных, инженерию признаков и настройку гиперпараметров с помощью GridSearchCV.
 
 ### Ключевые навыки
 
