@@ -1,17 +1,15 @@
-# XGBoosting with Python · Predicting Airline Customer Satisfaction
+# Machine Learning with Python for Predicting Airline Customer Satisfaction. Part 3 (XGBoosting)
 
-### Project Overview
+### Task  
+Build an XGBoosting classification model to predict customer satisfaction using flight feedback data. Use the same dataset from previous parts, focus on identifying key features through feature importance analysis, and perform data cleaning, feature engineering, hyperparameter tuning with GridSearchCV, and model evaluation.
 
-Trained, tuned, and evaluated an XGBoosting classification model to assess customer satisfaction as part of an ongoing project for churn analysis. Used the same dataset as in previous phases, focusing on feature importances to identify key factors influencing satisfaction. Included data cleaning, feature engineering, and hyperparameter tuning with GridSearchCV.
+### Skills  
+EDA, data cleaning and wrangling, feature engineering for ML, building an XGBoosting classification model, tuning hyperparameters with GridSearchCV, model evaluation with metrics, feature importance interpretation.
 
-### Key Skills
+# Машинное обучение с использованием Python для предсказания удовлетворённости клиентов авиакомпании. Часть 3 (XGBoosting)
 
-EDA, data cleaning, and data wrangling, feature engineering for ML, building an XGBoosting classification model, tuning hyperparameters with GridSearchCV, evaluating the model using metrics and interpreting results.
+### Задача  
+Построить модель классификации XGBoosting для прогнозирования удовлетворённости клиентов на основе отзывов о перелётах. Использовать тот же набор данных, что и в предыдущих частях проекта, сосредоточиться на анализе важности признаков, провести очистку данных, инженерию признаков, настройку гиперпараметров с помощью GridSearchCV и оценку модели.
 
-### Описание проекта
-
-Обучена, настроена и оценена модель XGBoosting для предсказания удовлетворённости клиентов в рамках продолжения проекта по анализу оттока. Использовались те же данные, что и в предыдущих этапах, с акцентом на исследование важности признаков для выявления факторов, влияющих на удовлетворённость клиентов. Проект включал очистку данных, инженерию признаков и настройку гиперпараметров с помощью GridSearchCV.
-
-### Ключевые навыки
-
-Исследовательский анализ данных, очистка и обработка данных, инженерия признаков для машинного обучения, построение модели XGBoosting, настройка гиперпараметров с использованием GridSearchCV, оценка модели с использованием метрик и интерпретация результатов.
+### Навыки  
+Исследовательский анализ данных, очистка и обработка данных, инженерия признаков для машинного обучения, построение модели XGBoosting, настройка гиперпараметров с использованием GridSearchCV, оценка модели с использованием метрик, интерпретация важности признаков.
